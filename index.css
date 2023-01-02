@@ -1,0 +1,204 @@
+.tour_head
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+body{
+   background-color: rgb(163, 226, 255);
+}
+
+.heading{
+   margin: 0px;
+   padding: 0px;
+
+
+}
+
+
+
+
+
+.Home{
+
+   margin-top: 30px;
+}
+.Home :hover{
+   color: blue;
+   
+}
+
+
+
+
+
+ .Flights{
+    margin-top: 30px;
+ }
+
+ .h12 {
+   height: 200;
+   width: 200;
+   color: azure;
+   background-color: blue;
+}
+
+.a1234{
+   height: 300;
+   width: 800;
+  
+   display: flex;
+   
+}
+
+.sindh img {
+   height: 300px;
+   width: 500px;
+   border-style: solid;
+   border-radius: 8px;
+
+}
+
+.punjab-box{
+   display: flex;
+}
+
+.punjab-img{
+   height: 300px;
+   width: 500px;
+ 
+   border-radius: 8px;
+}
+
+.kpk-box{
+   display: flex;
+}
+
+.kpk-img{
+   
+   
+   height: 300px;
+   width: 500px;
+ 
+   border-radius: 8px;
+}
+
+.blochistan-box{
+   display: flex;
+}
+
+
+.blochistan-img{
+   
+   border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+ .Flights :hover{
+    color: blue;
+ }
+
+ .Tours{
+    margin-top: 30px;
+ }
+
+ .Tours :hover{
+    color: blue;
+ }
+
+ .Rent_a_car{
+    margin-top: 30px;
+ }
+
+ .Rent_a_car :hover{
+    color: blue;
+ }
+
+ .Visas{
+    margin-top: 30px;
+   
+    
+ }
+
+ .Visas :hover{
+    color: blue;
+ }
+
+ .Destination {
+    margin-top: 30px;
+ }
+
+ .Destination :hover{
+    color: blue;
+ }
+
+ .Hajj {
+   margin-top: 30px;
+}
+
+.Hajj :hover{
+   color: blue;
+}
+
+.Umrah{
+   margin-top: 30px;
+}
+
+.Umrah :hover{
+   color: blue;
+}
+
+.News{
+   margin-top: 30px;
+}
+
+.News :hover{
+   color: blue;
+}
+
+.tour-search{
+   
+   background-color: rgb(222, 253, 243);
+   margin: auto;
+   text-align: center;
+} 
+
+.input{
+
+   height: 50px;
+   width: 500px;
+   border-radius: 50px;
+   margin: auto;
+   max-width: 500px;
+   min-width: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
